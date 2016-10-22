@@ -2,6 +2,8 @@
 
 tutorial of ES 6!
 
+[http://tutorial.webgeeker.xyz](http://tutorial.webgeeker.xyz)
+
 
 ## [features-ES6.md](./features-ES6.md)
 
